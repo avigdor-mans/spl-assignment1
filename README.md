@@ -1,2 +1,3 @@
 # spl-assignment1
-SPLFLIX
+
+A simulates a new streaming service - SPLFLIX. Implemented in C++
